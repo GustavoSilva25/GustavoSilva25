@@ -14,5 +14,3 @@
     <img aling="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div><br/>
-
-Construindo meu caminho na graduação de Análise e Desenvolvimento de Sistemas. Transformando curiosidade em código, e dedicação em soluções. Cada desafio é uma oportunidade de crescimento nesta emocionante jornada!
