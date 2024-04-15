@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Gustavo Silva ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-da-silva-ab272123a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohsilva1)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva25&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva25&layout=compact&theme=dracula)
